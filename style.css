@@ -13,12 +13,54 @@
 }
 
 .btn-buy-now{
-    width: 80px;
-    height: 60px;
+    width: 110px;
+    height: 40px;
     border: none;
     color: white;
     font-size: 15px;
     background-color: #FF136F;
     border-radius: 5px;
     padding: 10px;
+}
+.cat1, .cat2, .cat3{
+    border-radius: 5px;
+}
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+}
+.cat2{
+    background-color: orchid;
+    padding: 10px 30px;
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+
+}
+
+#Contact-Us{
+    height: 300px;
+}
+#Contact-Us h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
